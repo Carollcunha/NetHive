@@ -1,0 +1,42 @@
+span{ color: #F28C28;}
+
+.text-bg-blue{
+    background-color:  #23234d;
+    color: white;
+    text-align: center;
+}
+
+.margem-logo{
+    width: 150px;
+    height: 150px;
+    margin-left: -50px;
+    position: relative;
+    top: -2px;
+}
+
+.paragrafo {
+    font-size: 20px;
+    text-align: center;
+    
+}
+.nethive{
+    font-size: 80px
+}
+
+section{
+    max-width: 600px;
+    margin: auto;
+}
+
+.card-text{
+    font-size:  20px;
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+.card .card-title {
+    color: #23234d  ;
+  }
